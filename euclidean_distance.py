@@ -6,3 +6,4 @@ def euclidean_distance(pt1, pt2):
     return distance
 
 print(euclidean_distance([1,2], [4,0]))
+print(euclidean_distance([5, 4, 3], [1, 7, 9]))
